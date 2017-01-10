@@ -24,7 +24,8 @@ Professional Experience
 
 2015 – Present: Full Stack Developer at OurCrowd
 Development of investment platform for crowdfunding at start-ups.
-Working with the following tech:  ES6, AngularJS, Angular Material(Material Design), Node.js, HTML5, Saas, GTM, Gulp, express.js, Bootstrap, AWS, MySQL,  npm, Git(bitbucket), mocha, protractor,  slack and more
+Working with the following tech:  ES6, AngularJS, Angular Material(Material Design), Node.js, HTML5, Saas, GTM, Gulp, express.js, Bootstrap, AWS, MySQL,  npm, Git(bitbucket), mocha, protractor,  slack and more.
+
 Integrations between systems and front-end development for mobile and PC devices
 Working according to Agile methodology
 
